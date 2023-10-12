@@ -23,7 +23,7 @@ npm install direction-lined-cursor
 
 Or include the CDN in your HTML:
 
-```html
+```HTML
 <script src="https://cdn.jsdelivr.net/npm/direction-lined-cursor/dist/direction-lined-cursor.min.js"></script>
 ```
 
