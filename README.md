@@ -46,9 +46,9 @@ cursor.init();
 
 ```javascript
 const cursor = new DirectionLinedCursor({
-  lineColor: '#ff0000',
-  lineWidth: 2,
-  lineLength: 20,
+  line Color: '#ff0000',
+  line Width: 2,
+  line length: 20,
 });
 cursor.init();
 ```
@@ -63,9 +63,9 @@ cursor.init();
 
 ```javascript
 const cursor = new DirectionLinedCursor({
-  lineColor: '#00ff00',
-  lineWidth: 3,
-  lineLength: 15,
+  line Color: '#00ff00',
+  line Width: 3,
+  line length: 15,
 });
 cursor.init();
 ```
