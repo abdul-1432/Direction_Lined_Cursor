@@ -31,7 +31,7 @@ Or include the CDN in your HTML:
 
 1. Include the library in your HTML file:
 
-```html
+```HTML
 <script src="path/to/direction-lined-cursor.min.js"></script>
 ```
 
